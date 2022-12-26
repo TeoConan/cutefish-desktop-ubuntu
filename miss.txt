@@ -1,0 +1,4 @@
+Mon Drive
+Manque : libqapt-dev, libxcb-util0-dev
+xserver-xorg-input-libinput-dev libx11-xcb-dev libxcb-keysyms1-dev libxcb-dpms0-dev libxcb-dri2-0-dev libxcb-dri3-dev libxcb-glx0-dev libxcb-record0-dev xserver-xorg-dev xserver-xorg-input-synaptics-dev libkf5idletime-dev
+Fonctionne dans /var/lib/apt
